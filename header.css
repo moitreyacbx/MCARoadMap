@@ -1,0 +1,28 @@
+
+#head {
+    font-size: 70px;
+    color: #4cc2e0;
+    font-family: 'Paytone One', sans-serif;
+    text-shadow: 0px 0px 0 rgb(61,179,209),
+                 0px 1px 0 rgb(46,164,194),
+                 0px 2px 0 rgb(31,149,179),
+                 0px 3px 0 rgb(16,134,164),
+                 0px 4px 0 rgb(1,119,149),
+                 0px 5px 0 rgb(-14,104,134),
+                 0px 6px 0 rgb(-29,89,119),
+                 0px 7px 0 rgb(-44,74,104),
+                 0px 8px 0 rgb(-59,59,89),
+                 0px 9px 0 rgb(-74,44,74),
+                 0px 10px  0 rgb(-89,29,59),
+                 0px 11px 10px rgba(0,0,0,0.67),
+                 0px 11px 1px rgba(0,0,0,0.5),
+                 0px 0px 10px rgba(0,0,0,.2);
+ }
+
+  .Contain {
+    display : flex;
+    background-image : url(https://imgs.search.brave.com/ChZrw79ehlZLX_9ptUCxWCLwaKz5NG0thR2HNS9IW2k/rs:fit:632:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC50/dF92M1ExcXdPWFFS/Nk41WFNCR3RnSGFG/aiZwaWQ9QXBp);
+    justify-content : center;
+    border : 2px solid black;
+    align-items: center;
+  }
